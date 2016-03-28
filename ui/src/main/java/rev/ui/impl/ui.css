@@ -1,0 +1,22 @@
+/* CSS Document */
+.mainScreenHeaderWrapper {
+    -fx-padding: 10;
+    -fx-background-color: #CCFF99;
+}
+
+.coreAppTabsContainer {
+    -fx-padding: 32 8 10 8;
+    -fx-background-color: derive(gray, 90%);
+}
+
+.mainScreenFooterWrapper {
+    -fx-padding: 10;
+    -fx-background-color: derive(gray, 100%);
+}
+
+.modulesTab {
+    -fx-background-image: url("Bar-chart32.png");
+    -fx-background-size: 28 28;
+    -fx-background-position: center center;
+    -fx-background-repeat: no-repeat;
+}

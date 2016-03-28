@@ -1,0 +1,3 @@
+dist-1.0-SNAPSHOT
+launcher-1.0-SNAPSHOT
+ui-1.0-SNAPSHOT
